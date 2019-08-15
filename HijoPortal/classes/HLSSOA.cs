@@ -462,7 +462,7 @@ namespace HijoPortal.classes
             //DataTable dt1 = new DataTable();
             //SqlCommand cmd1 = null;
             //SqlDataAdapter adp1;
-            string query = "", sWaybill = "";
+            string query = "", sWaybill = "", sLineWaybill = "";
             int iNum = 0;
             cn.Open();
             if (dtTable.Columns.Count == 0)
@@ -502,6 +502,8 @@ namespace HijoPortal.classes
             }
             dt.Clear();
 
+            sLineWaybill = "";
+
             query = "AX_HLS_SODetails '" + sCustCode + "', '" + sWeekNum + "', " + sYear + ", '" + sWaybill + "'";
             cmd = new SqlCommand(query);
             cmd.Connection = cn;
@@ -515,6 +517,9 @@ namespace HijoPortal.classes
                     DataRow dtRow = dtTable.NewRow();
                     if (row["ITEMID"].ToString() == "SH-00001")
                     {
+
+                        sLineWaybill = row["WAYBILLNO"].ToString();
+
                         iNum = iNum + 1;
                         dtRow["Num"] = iNum.ToString("0#");
                         dtRow["Date"] = Convert.ToDateTime(row["ShippingDateRequested"]).ToString("MM/dd/yyyy");
@@ -524,16 +529,34 @@ namespace HijoPortal.classes
                         dtRow["Waybill"] = row["WAYBILLNO"].ToString();
                         dtRow["From"] = row["DISTINATION_FROM"].ToString();
                         dtRow["To"] = row["DISTINCATION_TO"].ToString();
-                        //dtRow["Amount"] = Convert.ToDouble(row["LINEAMOUNT"]).ToString("#,##0.00");
                         dtRow["Amount"] = Convert.ToDouble(row["LINEAMOUNT"]).ToString("#,##0.00");
                         dtRow["VAT"] = Convert.ToDouble(row["VAT_AMOUNT"]).ToString("#,##0.00");
                         dtRow["AmountVAT"] = Convert.ToDouble(row["LineAmount_VAT"]).ToString("#,##0.00");
                         
                     } else
                     {
-                        dtRow["Num"] = "";
-                        dtRow["Date"] = "";
-                        dtRow["PlateNum"] = "";
+                        if (sLineWaybill != row["WAYBILLNO"].ToString())
+                        {
+                            sLineWaybill = row["WAYBILLNO"].ToString();
+                            iNum = iNum + 1;
+                            dtRow["Num"] = iNum.ToString("0#");
+                            dtRow["Date"] = Convert.ToDateTime(row["ShippingDateRequested"]).ToString("MM/dd/yyyy");
+                            dtRow["PlateNum"] = row["PLATENUM"].ToString();
+                            dtRow["ContainerNum"] = row["CONTAINER_NO"].ToString();
+                            dtRow["Waybill"] = row["WAYBILLNO"].ToString();
+                            dtRow["From"] = row["DISTINATION_FROM"].ToString();
+                            dtRow["To"] = row["DISTINCATION_TO"].ToString();
+                        } else
+                        {
+                            dtRow["Num"] = "";
+                            dtRow["Date"] = "";
+                            dtRow["PlateNum"] = "";
+                            dtRow["ContainerNum"] = "";
+                            dtRow["Waybill"] = "";
+                            dtRow["From"] = "";
+                            dtRow["To"] = "";
+                        }
+                        
                         if (row["ITEMID"].ToString() == "SH-00002")
                         {
                             dtRow["Particulars"] = row["ITEMDesc"].ToString() + " (" + Convert.ToDouble(row["SALESPRICE"]).ToString("#,##0.00") + " PER " + row["SALESUNIT"].ToString() + " X " + Convert.ToDouble(row["SALESQTY"]).ToString("#,##0") + " " + row["SALESUNIT"].ToString() + ")";
@@ -541,19 +564,8 @@ namespace HijoPortal.classes
                         {
                             double dSalesPrice = Convert.ToDouble(row["SALESPRICE"]) * (1 + (Convert.ToDouble(row["OVAT"])/100));
                             dtRow["Particulars"] = row["ITEMDesc"].ToString() + " (" + Convert.ToDouble(row["SALESQTY"]).ToString("#,##0") + " " + row["SALESUNIT"].ToString() + " X " + dSalesPrice.ToString("#0") + "/" + row["SALESUNIT"].ToString() + ")";
-                        }
-                            
-                        dtRow["ContainerNum"] = "";
-                        dtRow["Waybill"] = "";
-                        dtRow["From"] = "";
-                        dtRow["To"] = "";
-                        //if (row["ITEMID"].ToString() == "SH-00002")
-                        //{
-                        //    dtRow["Amount"] = Convert.ToDouble(row["LINEAMOUNT"]).ToString("#,##0.00");
-                        //} else
-                        //{
-                        //dtRow["Amount"] = Convert.ToDouble(row["LineAmount_VAT"]).ToString("#,##0.00");
-                        //}
+                        }                        
+
                         dtRow["Amount"] = Convert.ToDouble(row["LINEAMOUNT"]).ToString("#,##0.00");
                         dtRow["VAT"] = Convert.ToDouble(row["VAT_AMOUNT"]).ToString("#,##0.00");
                         dtRow["AmountVAT"] = Convert.ToDouble(row["LineAmount_VAT"]).ToString("#,##0.00");
