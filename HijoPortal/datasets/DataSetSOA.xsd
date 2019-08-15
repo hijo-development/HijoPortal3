@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetSOA" targetNamespace="http://tempuri.org/DataSetSOA.xsd" xmlns:mstns="http://tempuri.org/DataSetSOA.xsd" xmlns="http://tempuri.org/DataSetSOA.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="hijo_portalConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="hijo_portalConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.HijoPortal.Properties.Settings.GlobalReference.Default.hijo_portalConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tbl_HLS_StatementOfAccountReportTableAdapter" GeneratorDataComponentClassName="tbl_HLS_StatementOfAccountReportTableAdapter" Name="tbl_HLS_StatementOfAccountReport" UserDataComponentName="tbl_HLS_StatementOfAccountReportTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="hijo_portalConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT PK, UserKey, SOANum, SOADate, CustomerName, CustomerAdd, CustomerAtt, CustomerAttNum, Remarks, PreparedBy, PreparedByPost, CheckedBy, CheckedByPost, ApprovedBy, ApprovedByPost, TotalAmount, PictLogo FROM dbo.tbl_HLS_StatementOfAccountReport</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="PK" DataSetColumn="PK" />
+              <Mapping SourceColumn="UserKey" DataSetColumn="UserKey" />
+              <Mapping SourceColumn="SOANum" DataSetColumn="SOANum" />
+              <Mapping SourceColumn="SOADate" DataSetColumn="SOADate" />
+              <Mapping SourceColumn="CustomerName" DataSetColumn="CustomerName" />
+              <Mapping SourceColumn="CustomerAdd" DataSetColumn="CustomerAdd" />
+              <Mapping SourceColumn="CustomerAtt" DataSetColumn="CustomerAtt" />
+              <Mapping SourceColumn="CustomerAttNum" DataSetColumn="CustomerAttNum" />
+              <Mapping SourceColumn="Remarks" DataSetColumn="Remarks" />
+              <Mapping SourceColumn="PreparedBy" DataSetColumn="PreparedBy" />
+              <Mapping SourceColumn="PreparedByPost" DataSetColumn="PreparedByPost" />
+              <Mapping SourceColumn="CheckedBy" DataSetColumn="CheckedBy" />
+              <Mapping SourceColumn="CheckedByPost" DataSetColumn="CheckedByPost" />
+              <Mapping SourceColumn="ApprovedBy" DataSetColumn="ApprovedBy" />
+              <Mapping SourceColumn="ApprovedByPost" DataSetColumn="ApprovedByPost" />
+              <Mapping SourceColumn="TotalAmount" DataSetColumn="TotalAmount" />
+              <Mapping SourceColumn="PictLogo" DataSetColumn="PictLogo" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tbl_HLS_StatementOfAccountReport_DetTableAdapter" GeneratorDataComponentClassName="tbl_HLS_StatementOfAccountReport_DetTableAdapter" Name="tbl_HLS_StatementOfAccountReport_Det" UserDataComponentName="tbl_HLS_StatementOfAccountReport_DetTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="hijo_portalConnectionString (Settings)" DbObjectName="hijo_portal.dbo.tbl_HLS_StatementOfAccountReport_Det" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <DeleteCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>DELETE FROM [dbo].[tbl_HLS_StatementOfAccountReport_Det] WHERE (([MasterKey] = @Original_MasterKey) AND ([Line] = @Original_Line))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_MasterKey" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="MasterKey" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_Line" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="Line" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </DeleteCommand>
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>INSERT INTO [dbo].[tbl_HLS_StatementOfAccountReport_Det] ([MasterKey], [Line], [LineNum], [LineDate], [PlateNum], [Particulars], [ContNum], [WayBillNum], [LineFrom], [LineTo], [Amount]) VALUES (@MasterKey, @Line, @LineNum, @LineDate, @PlateNum, @Particulars, @ContNum, @WayBillNum, @LineFrom, @LineTo, @Amount)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@MasterKey" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="MasterKey" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Line" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="Line" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@LineNum" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="LineNum" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@LineDate" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="LineDate" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@PlateNum" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="PlateNum" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Particulars" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="Particulars" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@ContNum" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="ContNum" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@WayBillNum" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="WayBillNum" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@LineFrom" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="LineFrom" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@LineTo" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="LineTo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Amount" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="Amount" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT MasterKey, Line, LineNum, LineDate, PlateNum, Particulars, ContNum, WayBillNum, LineFrom, LineTo, Amount FROM dbo.tbl_HLS_StatementOfAccountReport_Det</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>UPDATE [dbo].[tbl_HLS_StatementOfAccountReport_Det] SET [MasterKey] = @MasterKey, [Line] = @Line, [LineNum] = @LineNum, [LineDate] = @LineDate, [PlateNum] = @PlateNum, [Particulars] = @Particulars, [ContNum] = @ContNum, [WayBillNum] = @WayBillNum, [LineFrom] = @LineFrom, [LineTo] = @LineTo, [Amount] = @Amount WHERE (([MasterKey] = @Original_MasterKey) AND ([Line] = @Original_Line))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@MasterKey" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="MasterKey" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Line" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="Line" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@LineNum" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="LineNum" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@LineDate" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="LineDate" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@PlateNum" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="PlateNum" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Particulars" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="Particulars" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@ContNum" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="ContNum" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@WayBillNum" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="WayBillNum" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@LineFrom" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="LineFrom" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@LineTo" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="LineTo" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Amount" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="Amount" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_MasterKey" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="MasterKey" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_Line" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="Line" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MasterKey" DataSetColumn="MasterKey" />
+              <Mapping SourceColumn="Line" DataSetColumn="Line" />
+              <Mapping SourceColumn="LineNum" DataSetColumn="LineNum" />
+              <Mapping SourceColumn="LineDate" DataSetColumn="LineDate" />
+              <Mapping SourceColumn="PlateNum" DataSetColumn="PlateNum" />
+              <Mapping SourceColumn="Particulars" DataSetColumn="Particulars" />
+              <Mapping SourceColumn="ContNum" DataSetColumn="ContNum" />
+              <Mapping SourceColumn="WayBillNum" DataSetColumn="WayBillNum" />
+              <Mapping SourceColumn="LineFrom" DataSetColumn="LineFrom" />
+              <Mapping SourceColumn="LineTo" DataSetColumn="LineTo" />
+              <Mapping SourceColumn="Amount" DataSetColumn="Amount" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetSOA" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetSOA" msprop:Generator_UserDSName="DataSetSOA">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tbl_HLS_StatementOfAccountReport" msprop:Generator_TableClassName="tbl_HLS_StatementOfAccountReportDataTable" msprop:Generator_TableVarName="tabletbl_HLS_StatementOfAccountReport" msprop:Generator_RowChangedName="tbl_HLS_StatementOfAccountReportRowChanged" msprop:Generator_TablePropName="tbl_HLS_StatementOfAccountReport" msprop:Generator_RowDeletingName="tbl_HLS_StatementOfAccountReportRowDeleting" msprop:Generator_RowChangingName="tbl_HLS_StatementOfAccountReportRowChanging" msprop:Generator_RowEvHandlerName="tbl_HLS_StatementOfAccountReportRowChangeEventHandler" msprop:Generator_RowDeletedName="tbl_HLS_StatementOfAccountReportRowDeleted" msprop:Generator_RowClassName="tbl_HLS_StatementOfAccountReportRow" msprop:Generator_UserTableName="tbl_HLS_StatementOfAccountReport" msprop:Generator_RowEvArgName="tbl_HLS_StatementOfAccountReportRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PK" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnPK" msprop:Generator_ColumnPropNameInRow="PK" msprop:Generator_ColumnPropNameInTable="PKColumn" msprop:Generator_UserColumnName="PK" type="xs:int" />
+              <xs:element name="UserKey" msprop:Generator_ColumnVarNameInTable="columnUserKey" msprop:Generator_ColumnPropNameInRow="UserKey" msprop:Generator_ColumnPropNameInTable="UserKeyColumn" msprop:Generator_UserColumnName="UserKey" type="xs:int" />
+              <xs:element name="SOANum" msprop:Generator_ColumnVarNameInTable="columnSOANum" msprop:Generator_ColumnPropNameInRow="SOANum" msprop:Generator_ColumnPropNameInTable="SOANumColumn" msprop:Generator_UserColumnName="SOANum">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SOADate" msprop:Generator_ColumnVarNameInTable="columnSOADate" msprop:Generator_ColumnPropNameInRow="SOADate" msprop:Generator_ColumnPropNameInTable="SOADateColumn" msprop:Generator_UserColumnName="SOADate">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CustomerName" msprop:Generator_ColumnVarNameInTable="columnCustomerName" msprop:Generator_ColumnPropNameInRow="CustomerName" msprop:Generator_ColumnPropNameInTable="CustomerNameColumn" msprop:Generator_UserColumnName="CustomerName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CustomerAdd" msprop:Generator_ColumnVarNameInTable="columnCustomerAdd" msprop:Generator_ColumnPropNameInRow="CustomerAdd" msprop:Generator_ColumnPropNameInTable="CustomerAddColumn" msprop:Generator_UserColumnName="CustomerAdd">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CustomerAtt" msprop:Generator_ColumnVarNameInTable="columnCustomerAtt" msprop:Generator_ColumnPropNameInRow="CustomerAtt" msprop:Generator_ColumnPropNameInTable="CustomerAttColumn" msprop:Generator_UserColumnName="CustomerAtt">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CustomerAttNum" msprop:Generator_ColumnVarNameInTable="columnCustomerAttNum" msprop:Generator_ColumnPropNameInRow="CustomerAttNum" msprop:Generator_ColumnPropNameInTable="CustomerAttNumColumn" msprop:Generator_UserColumnName="CustomerAttNum">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Remarks" msprop:Generator_ColumnVarNameInTable="columnRemarks" msprop:Generator_ColumnPropNameInRow="Remarks" msprop:Generator_ColumnPropNameInTable="RemarksColumn" msprop:Generator_UserColumnName="Remarks">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="250" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PreparedBy" msprop:Generator_ColumnVarNameInTable="columnPreparedBy" msprop:Generator_ColumnPropNameInRow="PreparedBy" msprop:Generator_ColumnPropNameInTable="PreparedByColumn" msprop:Generator_UserColumnName="PreparedBy">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PreparedByPost" msprop:Generator_ColumnVarNameInTable="columnPreparedByPost" msprop:Generator_ColumnPropNameInRow="PreparedByPost" msprop:Generator_ColumnPropNameInTable="PreparedByPostColumn" msprop:Generator_UserColumnName="PreparedByPost">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CheckedBy" msprop:Generator_ColumnVarNameInTable="columnCheckedBy" msprop:Generator_ColumnPropNameInRow="CheckedBy" msprop:Generator_ColumnPropNameInTable="CheckedByColumn" msprop:Generator_UserColumnName="CheckedBy">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CheckedByPost" msprop:Generator_ColumnVarNameInTable="columnCheckedByPost" msprop:Generator_ColumnPropNameInRow="CheckedByPost" msprop:Generator_ColumnPropNameInTable="CheckedByPostColumn" msprop:Generator_UserColumnName="CheckedByPost">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ApprovedBy" msprop:Generator_ColumnVarNameInTable="columnApprovedBy" msprop:Generator_ColumnPropNameInRow="ApprovedBy" msprop:Generator_ColumnPropNameInTable="ApprovedByColumn" msprop:Generator_UserColumnName="ApprovedBy">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ApprovedByPost" msprop:Generator_ColumnVarNameInTable="columnApprovedByPost" msprop:Generator_ColumnPropNameInRow="ApprovedByPost" msprop:Generator_ColumnPropNameInTable="ApprovedByPostColumn" msprop:Generator_UserColumnName="ApprovedByPost">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TotalAmount" msprop:Generator_ColumnVarNameInTable="columnTotalAmount" msprop:Generator_ColumnPropNameInRow="TotalAmount" msprop:Generator_ColumnPropNameInTable="TotalAmountColumn" msprop:Generator_UserColumnName="TotalAmount" type="xs:double" />
+              <xs:element name="PictLogo" msprop:Generator_ColumnVarNameInTable="columnPictLogo" msprop:Generator_ColumnPropNameInRow="PictLogo" msprop:Generator_ColumnPropNameInTable="PictLogoColumn" msprop:Generator_UserColumnName="PictLogo" type="xs:base64Binary" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tbl_HLS_StatementOfAccountReport_Det" msprop:Generator_TableClassName="tbl_HLS_StatementOfAccountReport_DetDataTable" msprop:Generator_TableVarName="tabletbl_HLS_StatementOfAccountReport_Det" msprop:Generator_TablePropName="tbl_HLS_StatementOfAccountReport_Det" msprop:Generator_RowDeletingName="tbl_HLS_StatementOfAccountReport_DetRowDeleting" msprop:Generator_RowChangingName="tbl_HLS_StatementOfAccountReport_DetRowChanging" msprop:Generator_RowEvHandlerName="tbl_HLS_StatementOfAccountReport_DetRowChangeEventHandler" msprop:Generator_RowDeletedName="tbl_HLS_StatementOfAccountReport_DetRowDeleted" msprop:Generator_UserTableName="tbl_HLS_StatementOfAccountReport_Det" msprop:Generator_RowChangedName="tbl_HLS_StatementOfAccountReport_DetRowChanged" msprop:Generator_RowEvArgName="tbl_HLS_StatementOfAccountReport_DetRowChangeEvent" msprop:Generator_RowClassName="tbl_HLS_StatementOfAccountReport_DetRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MasterKey" msprop:Generator_ColumnVarNameInTable="columnMasterKey" msprop:Generator_ColumnPropNameInRow="MasterKey" msprop:Generator_ColumnPropNameInTable="MasterKeyColumn" msprop:Generator_UserColumnName="MasterKey" type="xs:int" />
+              <xs:element name="Line" msprop:Generator_ColumnVarNameInTable="columnLine" msprop:Generator_ColumnPropNameInRow="Line" msprop:Generator_ColumnPropNameInTable="LineColumn" msprop:Generator_UserColumnName="Line" type="xs:int" />
+              <xs:element name="LineNum" msprop:Generator_ColumnVarNameInTable="columnLineNum" msprop:Generator_ColumnPropNameInRow="LineNum" msprop:Generator_ColumnPropNameInTable="LineNumColumn" msprop:Generator_UserColumnName="LineNum">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="LineDate" msprop:Generator_ColumnVarNameInTable="columnLineDate" msprop:Generator_ColumnPropNameInRow="LineDate" msprop:Generator_ColumnPropNameInTable="LineDateColumn" msprop:Generator_UserColumnName="LineDate">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PlateNum" msprop:Generator_ColumnVarNameInTable="columnPlateNum" msprop:Generator_ColumnPropNameInRow="PlateNum" msprop:Generator_ColumnPropNameInTable="PlateNumColumn" msprop:Generator_UserColumnName="PlateNum">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Particulars" msprop:Generator_ColumnVarNameInTable="columnParticulars" msprop:Generator_ColumnPropNameInRow="Particulars" msprop:Generator_ColumnPropNameInTable="ParticularsColumn" msprop:Generator_UserColumnName="Particulars">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ContNum" msprop:Generator_ColumnVarNameInTable="columnContNum" msprop:Generator_ColumnPropNameInRow="ContNum" msprop:Generator_ColumnPropNameInTable="ContNumColumn" msprop:Generator_UserColumnName="ContNum">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="WayBillNum" msprop:Generator_ColumnVarNameInTable="columnWayBillNum" msprop:Generator_ColumnPropNameInRow="WayBillNum" msprop:Generator_ColumnPropNameInTable="WayBillNumColumn" msprop:Generator_UserColumnName="WayBillNum">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="LineFrom" msprop:Generator_ColumnVarNameInTable="columnLineFrom" msprop:Generator_ColumnPropNameInRow="LineFrom" msprop:Generator_ColumnPropNameInTable="LineFromColumn" msprop:Generator_UserColumnName="LineFrom">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="LineTo" msprop:Generator_ColumnVarNameInTable="columnLineTo" msprop:Generator_ColumnPropNameInRow="LineTo" msprop:Generator_ColumnPropNameInTable="LineToColumn" msprop:Generator_UserColumnName="LineTo">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Amount" msprop:Generator_ColumnVarNameInTable="columnAmount" msprop:Generator_ColumnPropNameInRow="Amount" msprop:Generator_ColumnPropNameInTable="AmountColumn" msprop:Generator_UserColumnName="Amount" type="xs:double" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:tbl_HLS_StatementOfAccountReport" />
+      <xs:field xpath="mstns:PK" />
+    </xs:unique>
+    <xs:unique name="tbl_HLS_StatementOfAccountReport_Det_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:tbl_HLS_StatementOfAccountReport_Det" />
+      <xs:field xpath="mstns:MasterKey" />
+      <xs:field xpath="mstns:Line" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="FK_tbl_HLS_StatementOfAccountReport_Det_tbl_HLS_StatementOfAccountReport" msdata:parent="tbl_HLS_StatementOfAccountReport" msdata:child="tbl_HLS_StatementOfAccountReport_Det" msdata:parentkey="PK" msdata:childkey="MasterKey" msprop:Generator_UserChildTable="tbl_HLS_StatementOfAccountReport_Det" msprop:Generator_ChildPropName="Gettbl_HLS_StatementOfAccountReport_DetRows" msprop:Generator_UserRelationName="FK_tbl_HLS_StatementOfAccountReport_Det_tbl_HLS_StatementOfAccountReport" msprop:Generator_ParentPropName="tbl_HLS_StatementOfAccountReportRow" msprop:Generator_RelationVarName="relationFK_tbl_HLS_StatementOfAccountReport_Det_tbl_HLS_StatementOfAccountReport" msprop:Generator_UserParentTable="tbl_HLS_StatementOfAccountReport" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

@@ -1,0 +1,2 @@
+PurchId|AccountingDate|DeliveryDate|CurrencyCode|OrderAccount|InvoiceAccount|DeliveryName|PurchName|Payment|InclTax|PaymMode|InventSiteId|Remarks|VendGroup|TaxGroup|DefaultDimension|PORemarks|DocumentState|DocumentStatus|LanguageId|PostingProfile|PurchaseType|PurchPoolId|PurchStatus
+PO-0000-M00000008|04/11/2019|04/11/2019|PHP|V-00001|V-00001|8Telcom Inc.|8Telcom Inc.|007D|No||HRC-0000|testing|Trade|IVNCGWI158|BU-004|0000-0319MRP-000066|Draft|None|en-us|Gen|Purchase order||Open order

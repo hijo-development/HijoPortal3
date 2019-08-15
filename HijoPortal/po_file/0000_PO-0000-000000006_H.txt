@@ -1,0 +1,2 @@
+PurchId|AccountingDate|DeliveryDate|CurrencyCode|OrderAccount|InvoiceAccount|DeliveryName|PurchName|Payment|InclTax|PaymMode|PORemarks|DocumentState|DocumentStatus|InventSiteId|Remarks|VendGroup|TaxGroup|LanguageId|PostingProfile|PurchaseType|PurchPoolId|PurchStatus|DefaultDimension
+PO-0000-000000006|04/02/2019|04/02/2019|PHP|V-00001|V-00001|8Telcom Inc.|8Telcom Inc.|010D|No||MOP Number 0000-0319MRP-000066|Draft|Open order|HRC-0000|MOP Number 0000-0319MRP-000066|Trade|IVNCGWI158|en-us|Gen|Purchase order||Open order|BU-004__

@@ -1,0 +1,813 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B8697D8C-9855-46BA-BCDC-634233D5DBCD}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HijoPortal</RootNamespace>
+    <AssemblyName>HijoPortal</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=15.1.2.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\gmquimpan\Downloads\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v17.2.Core, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeParser.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v17.2.Core, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v17.2.Core, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v17.2.Core, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v17.2.Core, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v17.2.Core, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v17.2.Export, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Sparkline.v17.2.Core, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Web.ASPxSpreadsheet.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Web.ASPxThemes.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Web.Resources.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Web.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpo.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v17.2.Core, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v17.2, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v17.2.Service, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v17.2.Web, Version=17.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=2.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1358.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.3.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1358.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebDesign, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1358.0\lib\net40\Microsoft.ReportViewer.WebDesign.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1358.0\lib\net40\Microsoft.ReportViewer.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.1016.290\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="budept_head.aspx" />
+    <Content Include="business_unit.aspx" />
+    <Content Include="changepw.aspx" />
+    <Content Include="change_password.aspx" />
+    <Content Include="change_pw.aspx" />
+    <Content Include="config\cn.txt" />
+    <Content Include="config\email.txt" />
+    <Content Include="config\email_redirect.txt" />
+    <Content Include="config\Key.txt" />
+    <Content Include="config\POHeaderColNameDefault.txt" />
+    <Content Include="config\POHeaderColNameFromMOP.txt" />
+    <Content Include="config\POHeaderDefaultValue.txt" />
+    <Content Include="config\POLineColNameDefault.txt" />
+    <Content Include="config\POLineColNameFromMOP.txt" />
+    <Content Include="config\POLineDefaultValue.txt" />
+    <Content Include="createaccount.aspx" />
+    <Content Include="create_account.aspx" />
+    <Content Include="css\Account.css" />
+    <Content Include="css\ChangePassword.css" />
+    <Content Include="css\ContentPage.css" />
+    <Content Include="css\Home.css" />
+    <Content Include="css\LogIn.css" />
+    <Content Include="css\LogInICON.css" />
+    <Content Include="css\POAddedit.css" />
+    <Content Include="css\POCreate.css" />
+    <Content Include="css\POUploading.css" />
+    <Content Include="css\Preview.css" />
+    <Content Include="default.aspx" />
+    <Content Include="executive.aspx" />
+    <Content Include="finance.aspx" />
+    <Content Include="font\opensans\LICENSE.txt" />
+    <Content Include="forgotpassword.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="hlsSOA.aspx" />
+    <Content Include="hlsSOA_Add.aspx" />
+    <Content Include="hlsSOA_Print.aspx" />
+    <Content Include="home.aspx" />
+    <Content Include="images\2leftarrow.png" />
+    <Content Include="images\2rightarrow.png" />
+    <Content Include="images\Add.ico" />
+    <Content Include="images\avatar.png" />
+    <Content Include="images\Banner.png" />
+    <Content Include="images\Delete.ico" />
+    <Content Include="images\Edit.ico" />
+    <Content Include="images\EmailSig.jpg" />
+    <Content Include="images\Header.png" />
+    <Content Include="images\HeaderTitle.png" />
+    <Content Include="images\Hijo Logo.png" />
+    <Content Include="images\HijoLogo.png" />
+    <Content Include="images\hijosign.png" />
+    <Content Include="images\HIJOState.jpg" />
+    <Content Include="images\hls.jpg" />
+    <Content Include="images\hls.png" />
+    <Content Include="images\ID.jpg" />
+    <Content Include="images\index.png" />
+    <Content Include="images\Loading.gif" />
+    <Content Include="images\mountain.jpg" />
+    <Content Include="images\pin.png" />
+    <Content Include="images\Refresh.ico" />
+    <Content Include="images\Save.ico" />
+    <Content Include="images\Submit.ico" />
+    <Content Include="images\Undo.ico" />
+    <Content Include="images\Users.png" />
+    <Content Include="images\users\ID.jpg" />
+    <Content Include="jquery\accounting.js" />
+    <Content Include="jquery\changePW.js" />
+    <Content Include="jquery\ContentPage.js" />
+    <Content Include="jquery\createAccount.js" />
+    <Content Include="jquery\MRPAddEdit.js" />
+    <Content Include="jquery\MRPInventAnalyst.js" />
+    <Content Include="jquery\mrpList.js" />
+    <Content Include="jquery\POAddedit.js" />
+    <Content Include="jquery\POCreate.js" />
+    <Content Include="jquery\POList.js" />
+    <Content Include="jquery\POUploading.js" />
+    <Content Include="jquery\windowState.js" />
+    <Content Include="mop_workflow.aspx" />
+    <Content Include="mrp_addedit.aspx" />
+    <Content Include="mrp_capexcip.aspx" />
+    <Content Include="mrp_document_viewer.aspx" />
+    <Content Include="mrp_finance.aspx" />
+    <Content Include="mrp_forapproval.aspx" />
+    <Content Include="mrp_inventanalyst.aspx" />
+    <Content Include="mrp_inventoryanalyst_forapproval.aspx" />
+    <Content Include="mrp_list.aspx" />
+    <Content Include="mrp_listbudget.aspx" />
+    <Content Include="mrp_listforapproval.aspx" />
+    <Content Include="mrp_listinventoryanalyst.aspx" />
+    <Content Include="mrp_poaddedit.aspx" />
+    <Content Include="mrp_pocreatededit.aspx" />
+    <Content Include="mrp_pocreation.aspx" />
+    <Content Include="mrp_po_addedit.aspx" />
+    <Content Include="mrp_po_create.aspx" />
+    <Content Include="mrp_po_list.aspx" />
+    <Content Include="mrp_po_selectitem.aspx" />
+    <Content Include="mrp_previewforapproval_before.aspx" />
+    <Content Include="mrp_preview_approve_before.aspx" />
+    <Content Include="mrp_preview_before.aspx" />
+    <Content Include="mrp_preview.aspx" />
+    <Content Include="mrp_previewforapproval.aspx" />
+    <Content Include="mrp_preview_approve.aspx" />
+    <Content Include="mrp_preview_inventanalyst.aspx" />
+    <Content Include="mrp_preview_inventanalyst_before.aspx" />
+    <Content Include="mrp_preview_procoff.aspx" />
+    <Content Include="mrp_print_preview.aspx" />
+    <Content Include="mrp_workflow.aspx" />
+    <Content Include="po_uploading.aspx" />
+    <Content Include="scm.aspx" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="TimeoutControl.ascx" />
+    <Content Include="TimeOutPage.aspx" />
+    <Content Include="userlist.aspx" />
+    <Content Include="user_list.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="budept_head.aspx.cs">
+      <DependentUpon>budept_head.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="budept_head.aspx.designer.cs">
+      <DependentUpon>budept_head.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="business_unit.aspx.cs">
+      <DependentUpon>business_unit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="business_unit.aspx.designer.cs">
+      <DependentUpon>business_unit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="changepw.aspx.cs">
+      <DependentUpon>changepw.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="changepw.aspx.designer.cs">
+      <DependentUpon>changepw.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="change_password.aspx.cs">
+      <DependentUpon>change_password.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="change_password.aspx.designer.cs">
+      <DependentUpon>change_password.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="change_pw.aspx.cs">
+      <DependentUpon>change_pw.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="change_pw.aspx.designer.cs">
+      <DependentUpon>change_pw.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="classes\AccountClass.cs" />
+    <Compile Include="classes\CapexCIP.cs" />
+    <Compile Include="classes\Constants.cs" />
+    <Compile Include="classes\Convertion.cs" />
+    <Compile Include="classes\DataFlowClass.cs" />
+    <Compile Include="classes\DesignBehavior.cs" />
+    <Compile Include="classes\EncryptionClass.cs" />
+    <Compile Include="classes\FinanceClass.cs" />
+    <Compile Include="classes\GlobalClass.cs" />
+    <Compile Include="classes\HLSSOA.cs" />
+    <Compile Include="classes\ImpersonatedUser.cs" />
+    <Compile Include="classes\ItemInfoClass.cs" />
+    <Compile Include="classes\MasterClass.cs" />
+    <Compile Include="classes\MOPReportClass.cs" />
+    <Compile Include="classes\MRPApproveClass.cs" />
+    <Compile Include="classes\MRPClass.cs" />
+    <Compile Include="classes\MRPSubmitClass.cs" />
+    <Compile Include="classes\MRP_Constants.cs" />
+    <Compile Include="classes\POClass.cs" />
+    <Compile Include="classes\PO_Constants.cs" />
+    <Compile Include="classes\Preview.cs" />
+    <Compile Include="classes\QuerySPClass.cs" />
+    <Compile Include="classes\SCMClass.cs" />
+    <Compile Include="classes\WorkflowClass.cs" />
+    <Compile Include="createaccount.aspx.cs">
+      <DependentUpon>createaccount.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="createaccount.aspx.designer.cs">
+      <DependentUpon>createaccount.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="create_account.aspx.cs">
+      <DependentUpon>create_account.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="create_account.aspx.designer.cs">
+      <DependentUpon>create_account.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="datasets\DataSetBillInv.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetBillInv.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="datasets\DataSetSOA.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetSOA.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="datasets\DataSetSOASub.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetSOASub.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="devexrep\XtraReportBillInv.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="devexrep\XtraReportBillInv.Designer.cs">
+      <DependentUpon>XtraReportBillInv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="devexrep\XtraReportSOA.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="devexrep\XtraReportSOA.Designer.cs">
+      <DependentUpon>XtraReportSOA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="devexrep\XtraReportSOA_Subtotal.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="devexrep\XtraReportSOA_Subtotal.Designer.cs">
+      <DependentUpon>XtraReportSOA_Subtotal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="executive.aspx.cs">
+      <DependentUpon>executive.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="executive.aspx.designer.cs">
+      <DependentUpon>executive.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="finance.aspx.cs">
+      <DependentUpon>finance.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="finance.aspx.designer.cs">
+      <DependentUpon>finance.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="forgotpassword.aspx.cs">
+      <DependentUpon>forgotpassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="forgotpassword.aspx.designer.cs">
+      <DependentUpon>forgotpassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="hlsSOA.aspx.cs">
+      <DependentUpon>hlsSOA.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="hlsSOA.aspx.designer.cs">
+      <DependentUpon>hlsSOA.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="hlsSOA_Add.aspx.cs">
+      <DependentUpon>hlsSOA_Add.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="hlsSOA_Add.aspx.designer.cs">
+      <DependentUpon>hlsSOA_Add.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="hlsSOA_Print.aspx.cs">
+      <DependentUpon>hlsSOA_Print.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="hlsSOA_Print.aspx.designer.cs">
+      <DependentUpon>hlsSOA_Print.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="home.aspx.cs">
+      <DependentUpon>home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="home.aspx.designer.cs">
+      <DependentUpon>home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Master_Copy.Master.cs">
+      <DependentUpon>Master_Copy.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Master_Copy.Master.designer.cs">
+      <DependentUpon>Master_Copy.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Master.Master.cs">
+      <DependentUpon>Master.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Master.Master.designer.cs">
+      <DependentUpon>Master.Master</DependentUpon>
+    </Compile>
+    <Compile Include="mop_workflow.aspx.cs">
+      <DependentUpon>mop_workflow.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mop_workflow.aspx.designer.cs">
+      <DependentUpon>mop_workflow.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_addedit.aspx.cs">
+      <DependentUpon>mrp_addedit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_addedit.aspx.designer.cs">
+      <DependentUpon>mrp_addedit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_capexcip.aspx.cs">
+      <DependentUpon>mrp_capexcip.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_capexcip.aspx.designer.cs">
+      <DependentUpon>mrp_capexcip.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_document_viewer.aspx.cs">
+      <DependentUpon>mrp_document_viewer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_document_viewer.aspx.designer.cs">
+      <DependentUpon>mrp_document_viewer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_finance.aspx.cs">
+      <DependentUpon>mrp_finance.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_finance.aspx.designer.cs">
+      <DependentUpon>mrp_finance.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_forapproval.aspx.cs">
+      <DependentUpon>mrp_forapproval.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_forapproval.aspx.designer.cs">
+      <DependentUpon>mrp_forapproval.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_inventanalyst.aspx.cs">
+      <DependentUpon>mrp_inventanalyst.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_inventanalyst.aspx.designer.cs">
+      <DependentUpon>mrp_inventanalyst.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_inventoryanalyst_forapproval.aspx.cs">
+      <DependentUpon>mrp_inventoryanalyst_forapproval.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_inventoryanalyst_forapproval.aspx.designer.cs">
+      <DependentUpon>mrp_inventoryanalyst_forapproval.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_list.aspx.cs">
+      <DependentUpon>mrp_list.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_list.aspx.designer.cs">
+      <DependentUpon>mrp_list.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_listbudget.aspx.cs">
+      <DependentUpon>mrp_listbudget.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_listbudget.aspx.designer.cs">
+      <DependentUpon>mrp_listbudget.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_listforapproval.aspx.cs">
+      <DependentUpon>mrp_listforapproval.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_listforapproval.aspx.designer.cs">
+      <DependentUpon>mrp_listforapproval.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_listinventoryanalyst.aspx.cs">
+      <DependentUpon>mrp_listinventoryanalyst.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_listinventoryanalyst.aspx.designer.cs">
+      <DependentUpon>mrp_listinventoryanalyst.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_poaddedit.aspx.cs">
+      <DependentUpon>mrp_poaddedit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_poaddedit.aspx.designer.cs">
+      <DependentUpon>mrp_poaddedit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_pocreatededit.aspx.cs">
+      <DependentUpon>mrp_pocreatededit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_pocreatededit.aspx.designer.cs">
+      <DependentUpon>mrp_pocreatededit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_pocreation.aspx.cs">
+      <DependentUpon>mrp_pocreation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_pocreation.aspx.designer.cs">
+      <DependentUpon>mrp_pocreation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_po_addedit.aspx.cs">
+      <DependentUpon>mrp_po_addedit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_po_addedit.aspx.designer.cs">
+      <DependentUpon>mrp_po_addedit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_po_create.aspx.cs">
+      <DependentUpon>mrp_po_create.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_po_create.aspx.designer.cs">
+      <DependentUpon>mrp_po_create.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_po_list.aspx.cs">
+      <DependentUpon>mrp_po_list.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_po_list.aspx.designer.cs">
+      <DependentUpon>mrp_po_list.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_po_selectitem.aspx.cs">
+      <DependentUpon>mrp_po_selectitem.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_po_selectitem.aspx.designer.cs">
+      <DependentUpon>mrp_po_selectitem.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_previewforapproval_before.aspx.cs">
+      <DependentUpon>mrp_previewforapproval_before.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_previewforapproval_before.aspx.designer.cs">
+      <DependentUpon>mrp_previewforapproval_before.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_preview_approve_before.aspx.cs">
+      <DependentUpon>mrp_preview_approve_before.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_preview_approve_before.aspx.designer.cs">
+      <DependentUpon>mrp_preview_approve_before.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_preview_before.aspx.cs">
+      <DependentUpon>mrp_preview_before.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_preview_before.aspx.designer.cs">
+      <DependentUpon>mrp_preview_before.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_preview.aspx.cs">
+      <DependentUpon>mrp_preview.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_preview.aspx.designer.cs">
+      <DependentUpon>mrp_preview.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_previewforapproval.aspx.cs">
+      <DependentUpon>mrp_previewforapproval.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_previewforapproval.aspx.designer.cs">
+      <DependentUpon>mrp_previewforapproval.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_preview_approve.aspx.cs">
+      <DependentUpon>mrp_preview_approve.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_preview_approve.aspx.designer.cs">
+      <DependentUpon>mrp_preview_approve.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_preview_inventanalyst.aspx.cs">
+      <DependentUpon>mrp_preview_inventanalyst.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_preview_inventanalyst.aspx.designer.cs">
+      <DependentUpon>mrp_preview_inventanalyst.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_preview_inventanalyst_before.aspx.cs">
+      <DependentUpon>mrp_preview_inventanalyst_before.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_preview_inventanalyst_before.aspx.designer.cs">
+      <DependentUpon>mrp_preview_inventanalyst_before.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_preview_procoff.aspx.cs">
+      <DependentUpon>mrp_preview_procoff.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_preview_procoff.aspx.designer.cs">
+      <DependentUpon>mrp_preview_procoff.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_print_preview.aspx.cs">
+      <DependentUpon>mrp_print_preview.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_print_preview.aspx.designer.cs">
+      <DependentUpon>mrp_print_preview.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mrp_workflow.aspx.cs">
+      <DependentUpon>mrp_workflow.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mrp_workflow.aspx.designer.cs">
+      <DependentUpon>mrp_workflow.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="po_uploading.aspx.cs">
+      <DependentUpon>po_uploading.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="po_uploading.aspx.designer.cs">
+      <DependentUpon>po_uploading.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreviewReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PreviewReport.Designer.cs">
+      <DependentUpon>PreviewReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="reports\MRPReportMaster.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reports\MRPReportSummary.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="scm.aspx.cs">
+      <DependentUpon>scm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="scm.aspx.designer.cs">
+      <DependentUpon>scm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TimeoutControl.ascx.cs">
+      <DependentUpon>TimeoutControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TimeoutControl.ascx.designer.cs">
+      <DependentUpon>TimeoutControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="TimeOutPage.aspx.cs">
+      <DependentUpon>TimeOutPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TimeOutPage.aspx.designer.cs">
+      <DependentUpon>TimeOutPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="userlist.aspx.cs">
+      <DependentUpon>userlist.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="userlist.aspx.designer.cs">
+      <DependentUpon>userlist.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="user_list.aspx.cs">
+      <DependentUpon>user_list.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="user_list.aspx.designer.cs">
+      <DependentUpon>user_list.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="XtraReport1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XtraReport1.Designer.cs">
+      <DependentUpon>XtraReport1.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Master.Master" />
+    <Content Include="font\opensans\OpenSans-Bold.ttf" />
+    <Content Include="font\opensans\OpenSans-BoldItalic.ttf" />
+    <Content Include="font\opensans\OpenSans-ExtraBold.ttf" />
+    <Content Include="font\opensans\OpenSans-ExtraBoldItalic.ttf" />
+    <Content Include="font\opensans\OpenSans-Italic.ttf" />
+    <Content Include="font\opensans\OpenSans-Light.ttf" />
+    <Content Include="font\opensans\OpenSans-LightItalic.ttf" />
+    <Content Include="font\opensans\OpenSans-Regular.ttf" />
+    <Content Include="font\opensans\OpenSans-Semibold.ttf" />
+    <Content Include="font\opensans\OpenSans-SemiboldItalic.ttf" />
+    <Content Include="Master_Copy.Master" />
+    <Content Include="datasets\DataSetSOA.xsc">
+      <DependentUpon>DataSetSOA.xsd</DependentUpon>
+    </Content>
+    <Content Include="datasets\DataSetBillInv.xsc">
+      <DependentUpon>DataSetBillInv.xsd</DependentUpon>
+    </Content>
+    <None Include="datasets\DataSetBillInv.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetBillInv.Designer.cs</LastGenOutput>
+    </None>
+    <Content Include="datasets\DataSetBillInv.xss">
+      <DependentUpon>DataSetBillInv.xsd</DependentUpon>
+    </Content>
+    <None Include="datasets\DataSetSOA.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetSOA.Designer.cs</LastGenOutput>
+    </None>
+    <Content Include="datasets\DataSetSOA.xss">
+      <DependentUpon>DataSetSOA.xsd</DependentUpon>
+    </Content>
+    <Content Include="datasets\DataSetSOASub.xsc">
+      <DependentUpon>DataSetSOASub.xsd</DependentUpon>
+    </Content>
+    <None Include="datasets\DataSetSOASub.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetSOASub.Designer.cs</LastGenOutput>
+    </None>
+    <Content Include="datasets\DataSetSOASub.xss">
+      <DependentUpon>DataSetSOASub.xsd</DependentUpon>
+    </Content>
+    <None Include="packages.config" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="crystalrep\" />
+    <Folder Include="SqlServerTypes\x64\" />
+    <Folder Include="SqlServerTypes\x86\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="devexrep\XtraReportBillInv.resx">
+      <DependentUpon>XtraReportBillInv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="devexrep\XtraReportSOA.resx">
+      <DependentUpon>XtraReportSOA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="devexrep\XtraReportSOA_Subtotal.resx">
+      <DependentUpon>XtraReportSOA_Subtotal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PreviewReport.resx">
+      <DependentUpon>PreviewReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="reports\MRPReportMaster.resx">
+      <DependentUpon>MRPReportMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reports\MRPReportSummary.resx">
+      <DependentUpon>MRPReportSummary.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>59392</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:59392/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

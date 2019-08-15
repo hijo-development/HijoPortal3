@@ -1,0 +1,765 @@
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\HijoPortal.dll.config
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\HijoPortal.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\HijoPortal.pdb
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\csc.exe
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\csc.rsp
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\csi.exe
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\csi.rsp
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\vbc.exe
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.Data.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.RichEdit.v17.2.Export.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.Web.ASPxThemes.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.Web.Resources.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.Web.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.Office.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.Images.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.Data.v17.2.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.Printing.v17.2.Core.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.Web.v17.2.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.Office.v17.2.Core.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\de\DevExpress.Web.Resources.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\es\DevExpress.Web.Resources.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ja\DevExpress.Web.Resources.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ru\DevExpress.Web.Resources.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\de\DevExpress.Web.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\es\DevExpress.Web.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ja\DevExpress.Web.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ru\DevExpress.Web.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\obj\Release\HijoPortal.csprojAssemblyReference.cache
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\obj\Release\HijoPortal.dll.licenses
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\obj\Release\HijoPortal.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\obj\Release\HijoPortal.csproj.CopyComplete
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\obj\Release\HijoPortal.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\obj\Release\HijoPortal.pdb
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.Charts.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.CodeParser.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.DataAccess.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.PivotGrid.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.Xpo.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.XtraCharts.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.XtraGauges.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.XtraReports.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.XtraReports.v17.2.Web.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.DataAccess.v17.2.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.PivotGrid.v17.2.Core.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.Xpo.v17.2.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.XtraCharts.v17.2.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.XtraGauges.v17.2.Core.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.XtraReports.v17.2.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.XtraReports.v17.2.Web.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\de\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\es\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ja\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ru\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\de\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\es\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ja\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ru\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\de\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\es\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ja\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ru\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\de\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\es\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ja\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ru\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\de\DevExpress.XtraReports.v17.2.Web.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\es\DevExpress.XtraReports.v17.2.Web.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ja\DevExpress.XtraReports.v17.2.Web.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ru\DevExpress.XtraReports.v17.2.Web.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\obj\Release\HijoPortal.csproj.GenerateResource.cache
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.Net.Http.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.Utils.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.XtraReports.v17.2.Service.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\EnvDTE.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\stdole.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\Microsoft.MSXML.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.Utils.v17.2.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.XtraReports.v17.2.Service.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.Web.ASPxSpreadsheet.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.Spreadsheet.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.Web.ASPxSpreadsheet.v17.2.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\DevExpress.Spreadsheet.v17.2.Core.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\de\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\es\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ja\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ru\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\de\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\es\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ja\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ru\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\obj\Release\HijoPortal.PreviewReport.resources
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\obj\Release\MRPReportMaster.resources
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\obj\Release\MRPReportSummary.resources
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\obj\Release\HijoPortal.devexrep.XtraReportBillInv.resources
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\obj\Release\HijoPortal.devexrep.XtraReportSOA.resources
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal\HijoPortal\obj\Release\HijoPortal.devexrep.XtraReportSOA_Subtotal.resources
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\HijoPortal.dll.config
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\HijoPortal.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\HijoPortal.pdb
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\csc.exe
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\csc.rsp
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\csi.exe
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\csi.rsp
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.Net.Http.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\vbc.exe
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.Charts.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.CodeParser.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.Data.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.DataAccess.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.Office.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.PivotGrid.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.RichEdit.v17.2.Export.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.Utils.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.Web.ASPxSpreadsheet.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.Web.ASPxThemes.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.Web.Resources.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.Web.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.Xpo.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.XtraCharts.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.XtraGauges.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.XtraReports.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.XtraReports.v17.2.Service.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.XtraReports.v17.2.Web.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.Images.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.Spreadsheet.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\EnvDTE.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\stdole.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\Microsoft.MSXML.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.Data.v17.2.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.DataAccess.v17.2.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.Office.v17.2.Core.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.PivotGrid.v17.2.Core.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.Printing.v17.2.Core.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.Utils.v17.2.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.Web.ASPxSpreadsheet.v17.2.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.Web.v17.2.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.Xpo.v17.2.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.XtraCharts.v17.2.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.XtraGauges.v17.2.Core.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.XtraReports.v17.2.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.XtraReports.v17.2.Service.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.XtraReports.v17.2.Web.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\DevExpress.Spreadsheet.v17.2.Core.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\de\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\es\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ja\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ru\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\de\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\es\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ja\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ru\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\de\DevExpress.Web.Resources.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\es\DevExpress.Web.Resources.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ja\DevExpress.Web.Resources.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ru\DevExpress.Web.Resources.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\de\DevExpress.Web.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\es\DevExpress.Web.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ja\DevExpress.Web.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ru\DevExpress.Web.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\de\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\es\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ja\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ru\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\de\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\es\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ja\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ru\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\de\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\es\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ja\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ru\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\de\DevExpress.XtraReports.v17.2.Web.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\es\DevExpress.XtraReports.v17.2.Web.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ja\DevExpress.XtraReports.v17.2.Web.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ru\DevExpress.XtraReports.v17.2.Web.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\de\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\es\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ja\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ru\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\obj\Release\HijoPortal.devexrep.XtraReportBillInv.resources
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\obj\Release\HijoPortal.devexrep.XtraReportSOA.resources
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\obj\Release\HijoPortal.devexrep.XtraReportSOA_Subtotal.resources
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\obj\Release\HijoPortal.PreviewReport.resources
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\obj\Release\MRPReportMaster.resources
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\obj\Release\MRPReportSummary.resources
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\obj\Release\HijoPortal.csproj.GenerateResource.Cache
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\obj\Release\HijoPortal.dll.licenses
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\obj\Release\HijoPortal.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\HijoPortal_O\HijoPortal\obj\Release\HijoPortal.pdb
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\HijoPortal.dll.config
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\HijoPortal.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\HijoPortal.pdb
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\csc.exe
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\csc.rsp
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\csi.exe
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\csi.rsp
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.Net.Http.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\vbc.exe
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.Charts.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.CodeParser.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.Data.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.DataAccess.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.Office.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.PivotGrid.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.RichEdit.v17.2.Export.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.Utils.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.Web.ASPxSpreadsheet.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.Web.ASPxThemes.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.Web.Resources.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.Web.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.Xpo.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.XtraCharts.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.XtraGauges.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.XtraReports.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.XtraReports.v17.2.Service.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.XtraReports.v17.2.Web.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.Images.v17.2.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.Spreadsheet.v17.2.Core.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\EnvDTE.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\stdole.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\Microsoft.MSXML.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.Data.v17.2.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.DataAccess.v17.2.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.Office.v17.2.Core.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.PivotGrid.v17.2.Core.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.Printing.v17.2.Core.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.Utils.v17.2.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.Web.ASPxSpreadsheet.v17.2.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.Web.v17.2.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.Xpo.v17.2.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.XtraCharts.v17.2.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.XtraGauges.v17.2.Core.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.XtraReports.v17.2.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.XtraReports.v17.2.Service.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.XtraReports.v17.2.Web.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\DevExpress.Spreadsheet.v17.2.Core.xml
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\de\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\es\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ja\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ru\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\de\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\es\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ja\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ru\DevExpress.Web.ASPxSpreadsheet.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\de\DevExpress.Web.Resources.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\es\DevExpress.Web.Resources.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ja\DevExpress.Web.Resources.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ru\DevExpress.Web.Resources.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\de\DevExpress.Web.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\es\DevExpress.Web.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ja\DevExpress.Web.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ru\DevExpress.Web.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\de\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\es\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ja\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ru\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\de\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\es\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ja\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ru\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\de\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\es\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ja\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ru\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\de\DevExpress.XtraReports.v17.2.Web.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\es\DevExpress.XtraReports.v17.2.Web.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ja\DevExpress.XtraReports.v17.2.Web.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ru\DevExpress.XtraReports.v17.2.Web.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\de\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\es\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ja\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ru\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\obj\Release\HijoPortal.devexrep.XtraReportBillInv.resources
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\obj\Release\HijoPortal.devexrep.XtraReportSOA.resources
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\obj\Release\HijoPortal.devexrep.XtraReportSOA_Subtotal.resources
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\obj\Release\HijoPortal.PreviewReport.resources
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\obj\Release\MRPReportMaster.resources
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\obj\Release\MRPReportSummary.resources
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\obj\Release\HijoPortal.csproj.GenerateResource.Cache
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\obj\Release\HijoPortal.dll.licenses
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\obj\Release\HijoPortal.dll
+C:\Users\Administrator\Working Files\VS2017\Web-based\GitHub\New folder\HijoPortal_O\HijoPortal\obj\Release\HijoPortal.pdb

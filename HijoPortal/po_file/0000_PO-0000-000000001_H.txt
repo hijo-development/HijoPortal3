@@ -1,0 +1,2 @@
+PurchId|AccountingDate|DeliveryDate|CurrencyCode|OrderAccount|InvoiceAccount|DeliveryName|PurchName|Payment|InclTax|PaymMode|PORemarks|DocumentState|DocumentStatus|InventSiteId|Remarks|VendGroup|TaxGroup|LanguageId|PostingProfile|PurchaseType|PurchPoolId|PurchStatus|DefaultDimension
+PO-0000-000000001|03/29/2019|03/29/2019|PHP|V-00769|V-00769|1618 Office Solutions, Inc.|1618 Office Solutions, Inc.|014D|No||MOP Number 0000-0319MRP-000064|Draft|None|HITS-0404|MOP Number 0000-0319MRP-000064|NTrade|IVNCGWC158|en-us|Gen|Purchase order||Open order|BU-004__

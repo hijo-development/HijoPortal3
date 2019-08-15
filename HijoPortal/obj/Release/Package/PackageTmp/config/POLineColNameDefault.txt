@@ -1,0 +1,1 @@
+CreateFixedAsset|Complete|IsFinalized|IsPwp|MatchingPolicy|OverDeliveryPct|PurchaseType|PurchStatus|UnderDeliveryPct|VariantId|WorkflowState
